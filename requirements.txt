@@ -1,0 +1,5 @@
+flask==3.0.3
+transformers==4.41.2
+torch==2.3.0
+# For Mac users with Apple Silicon, you might need specific torch versions.
+# For CPU-only environments, you can add --find-links https://download.pytorch.org/whl/cpu
